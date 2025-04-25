@@ -1,0 +1,23 @@
+{
+  "name": "practica-mongo-express",
+  "version": "1.0.0",
+  "description": "practica 22-04-25 de construccion de software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoStranger/practica-mongo-express.git"
+  },
+  "author": "Rodrigo Infanzon Acosta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoStranger/practica-mongo-express/issues"
+  },
+  "homepage": "https://github.com/RodrigoStranger/practica-mongo-express#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongodb": "^6.16.0"
+  }
+}
